@@ -1,5 +1,7 @@
-Files Provided
---------------
+Experiment in using the Twitter API
+
+Files
+-----
 * processTweets.rb -  a short script to gather tweets and calculate the
 					misspelling frequency of each users
 * twitter_misspell.R - a short set of R commands to visualise the data.
